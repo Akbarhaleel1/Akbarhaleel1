@@ -6,12 +6,12 @@
 
 ## 👨‍💻 About Me
 
-Seasoned Full Stack Developer with expertise in building scalable, high-performance applications using cutting-edge technologies. Specializing in MERN stack, TypeScript, and microservices architecture, I bring a wealth of experience in developing robust solutions for Fintech and Healthtech sectors.
+Experienced **Senior Full Stack Developer** with a passion for crafting scalable, high-performance applications. With deep expertise in the **MERN stack**, **TypeScript**, and **Microservices Architecture**, I have delivered robust solutions across industries, including Healthtech and eCommerce. My DevOps experience with **Docker**, **Kubernetes**, and cloud platforms ensures smooth deployments and optimized infrastructure.
 
 ### 🔧 Core Competencies
 
 - **Full Stack Development:** MERN (MongoDB, Express.js, React, Node.js) stack
-- **Frontend Excellence:** TypeScript, Next.js, React Native
+- **Frontend Expertise:** TypeScript, Next.js, React Native
 - **Backend Mastery:** Node.js, Express.js, NestJS
 - **DevOps & Cloud:** Docker, Kubernetes, AWS, Azure
 - **Database Technologies:** MongoDB, PostgreSQL, Redis
@@ -21,36 +21,38 @@ Seasoned Full Stack Developer with expertise in building scalable, high-performa
 
 ## 🚀 Current Focus
 
-- Implementing scalable microservices architectures
-- Exploring advanced patterns in distributed systems
-- Deepening expertise in cloud-native technologies and serverless computing
-- Enhancing system resilience through chaos engineering principles
+- Building modern microservices architectures that scale effortlessly
+- Deep diving into advanced cloud-native and serverless technologies
+- Enhancing system resilience with chaos engineering and disaster recovery principles
 
 ## 🌟 Featured Projects
 
-1. **FinTech Payment Gateway** (Private Repository)
-   - Developed a high-throughput payment processing system handling 10k+ transactions per second
-   - Technologies: Node.js, TypeScript, Redis, Kubernetes, Kafka
+1. **[Synx: Review Management Tool](https://github.com/Akbarhaleel1/Synx)**
+   - Freelance project for managing customer reviews across platforms. Developed a comprehensive dashboard for tracking and responding to user feedback efficiently.
+   - Stack: TypeScript, Next.js, Node.js, PostgreSQL, Docker
+   - Features: Sentiment analysis integration, multi-platform review aggregation, and custom reporting.
 
-2. **HealthTech Patient Management System** (Private Repository)
-   - Built a HIPAA-compliant platform for managing patient records and telemedicine appointments
+2. **[EyesCart: eCommerce Platform for Optical Products](https://github.com/Akbarhaleel1/ecommerce-eyescart)**
+   - Full-fledged eCommerce platform similar to Lenskart for selling optical products online. Built with a dynamic product catalog, search filters, and a user-friendly shopping cart system.
+   - Stack: MERN (MongoDB, Express.js, React, Node.js), Redux, Stripe API for payments
+   - Features: Product recommendations, user authentication, order history, and payment gateway integration.
+
+3. **HealthTech Patient Management System (Private Repository)**
+   - A HIPAA-compliant platform for managing patient records, telemedicine appointments, and doctor-patient interactions.
    - Stack: React, Next.js, NestJS, PostgreSQL, Docker
+   - Features: Real-time appointment scheduling, secure patient data handling, and telehealth video integration.
 
-3. **Open-Source Contribution: [Project Name]**
-   - Significant contributions to [describe the project and your role]
-   - [Link to the repository or your specific contributions]
+## 💡 Thought Leadership
 
-## 💡 Innovation & Thought Leadership
-
-- **Tech Blog:** [Link to your tech blog or Medium profile]
-- **Conference Speaker:** Presented on "Scaling Microservices in the Cloud" at [Conference Name, Year]
-- **Open Source:** Active contributor to [mention significant open-source projects]
+- **Tech Blog:** Sharing insights on **Microservices** and **Cloud Architecture** [Link to blog or Medium profile]
+- **Conference Speaker:** Presented at "Scaling Microservices in the Cloud" at [Conference Name, Year]
+- **Open Source Contributor:** Actively contributing to various open-source projects, including [Project Name].
 
 ## 🏆 Achievements
 
-- Led a team of 10 developers in successfully delivering a mission-critical project for a Fortune 500 client
-- Optimized database queries, resulting in a 40% reduction in API response times
-- Implemented CI/CD pipelines, reducing deployment time by 60% and improving team productivity
+- Successfully delivered high-impact projects for clients, including a Fortune 500 company.
+- Optimized backend API queries, reducing response times by 40%.
+- Automated DevOps processes with CI/CD pipelines, reducing deployment time by 60% and improving team efficiency.
 
 ## 📊 GitHub Stats
 
@@ -73,7 +75,7 @@ Seasoned Full Stack Developer with expertise in building scalable, high-performa
 
 ## 📣 Let's Connect!
 
-I'm always open to discussing new projects, innovative ideas, or opportunities to be part of your development team. Feel free to reach out!
+I'm always open to discussing new projects, innovative ideas, or collaboration opportunities. Feel free to reach out!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akbar-haleel-90b126281/)
 - 📧 [Email](mailto:akbarhaleel508@gmail.com)
@@ -81,4 +83,4 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
 
 ---
 
-⚡ **Fun Fact:** When I'm not coding, I'm a YouTube content creator with over 200k subscribers, explaining movies in Malayalam! 🎬🇮🇳
+⚡ **Fun Fact:** When I'm not coding, I'm creating movie explanation videos for my YouTube channel with over 200k subscribers! 🎬🇮🇳
