@@ -50,9 +50,9 @@ Passionate and skilled Full Stack Developer with a strong foundation in building
 
 ## 🏆 Achievements
 
-- Completed [relevant certification or course] with distinction
-- Finalist in [Hackathon or coding competition name]
-- Recognized for exceptional problem-solving skills in academic projects
+- Completed Brototype bootcamp, an intensive 1-year training program in full-stack development
+- Developed and deployed multiple real-world projects during the bootcamp, showcasing practical skills
+- Recognized for exceptional problem-solving skills and collaborative abilities in team projects
 
 ## 📊 GitHub Stats
 
