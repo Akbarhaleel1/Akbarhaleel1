@@ -27,14 +27,13 @@ Passionate and skilled Full Stack Developer with a strong foundation in building
 
 ## 🌟 Featured Projects
 
-1. **HealthTech Patient Management System** (Freelance Work)
-   - Built a comprehensive platform for managing patient records and telemedicine appointments
+1. **CarePoints - HealthTech Patient Management System** ([GitHub Repo](https://github.com/CarePoints))
+   - Contributed to building a comprehensive platform for managing patient records and telemedicine appointments
    - Technologies: React, Next.js, Node.js, MongoDB, Express.js
    - Key Features: Secure patient data storage, appointment scheduling, telemedicine integration
-   - [Link to the repository]
 
 2. **Synx - Review Management Tool** ([GitHub Repo](https://github.com/Akbarhaleel1/Synx))
-   - Developed a powerful tool for managing and analyzing customer reviews
+   - Freelance project: Developed a powerful tool for managing and analyzing customer reviews
    - Stack: React, Node.js, Express.js, MongoDB
    - Features: Review aggregation, sentiment analysis, response management
 
